@@ -1,0 +1,6 @@
+{
+  "name": "Candle Mantra - Lilin Aroma Terapi",
+  "description": "Toko online lilin aroma terapi alami Candle Mantra dengan pemesanan mudah via WhatsApp serta pembayaran Transfer Bank dan QRIS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
